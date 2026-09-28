@@ -1,0 +1,5 @@
+public interface Iconsoles{
+ String getConsoletype();
+ String getStore():
+ int getTotal sales();
+ }
